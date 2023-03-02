@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Yunshu</title>
+        <item>
+            <title>2.4.4</title>
+            <pubDate>周三, 01 3月 2023 23:11:00 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+            <enclosure url="{{.fileUrl}}" sparkle:version="2.4.4.7" sparkle:shortVersionString="2.4.4" length="139527416" type="application/octet-stream" sparkle:edSignature="1M6L+eA3Bt5MUx5qUcgaMwt/3r7OkCax2sUEy+ogDFBPyl6lgbEwqhssbYPexmSYpbcBN645Iwh51KB0D2DpAA=="/>
+        </item>
+    </channel>
+</rss>
